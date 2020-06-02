@@ -1,6 +1,8 @@
 # DevCampe API
 
-> Backend API for DevCamper applicatio,which is a bootcamp directory website
+> Backend API for DevCamper application,which is a bootcamp directory website
+
+> App working on heroku
 
 ## Usage
 Rename "config/config.env.env" to "config/config.env" and update the values/setting to your own
