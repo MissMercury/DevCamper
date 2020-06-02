@@ -2,7 +2,7 @@
 
 > Backend API for DevCamper application,which is a bootcamp directory website
 
-> App working on heroku: https://git.heroku.com/fathomless-headland-73908.git
+> App working on heroku: https://fathomless-headland-73908.herokuapp.com/
 
 ## Usage
 Rename "config/config.env.env" to "config/config.env" and update the values/setting to your own
